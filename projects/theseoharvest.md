@@ -7,8 +7,8 @@
 ---
 
 ## Project Plan
-- [ ] Choose platform (Carrd/Framer/WordPress)
-- [ ] Define specific SEO tools to promote
+- [x] Choose platform (React + Tailwind CSS)
+- [x] Define affiliate categories (general)
 - [ ] Create landing page structure
 - [ ] Write content/reviews
 - [ ] Add affiliate links
@@ -16,6 +16,19 @@
 - [ ] Plan social media strategy
 
 ---
+
+## Tech Stack
+- **Framework:** React
+- **Styling:** Tailwind CSS
+
+## Affiliate Categories
+1. SEO Software (all-in-one tools)
+2. Keyword Research Tools
+3. Content Optimization Tools
+4. Link Building Tools
+5. Analytics & Tracking
+6. SEO Courses & Training
+7. SEO Plugins & Extensions
 
 ## Notes
 
